@@ -1,4 +1,4 @@
 SLACK-BOT
 =========
 
-A simple docker image send slack messages.
+A simple docker image to send slack messages.
